@@ -1,7 +1,7 @@
 # Hangman
 
 ABOUT THIS GAME:
-As you all know that hangman is very famous game.But this time you will learn new from this game about country and regions. When you run this script in your terminal or any python idle it will tell you particular region and length of the country is given. now you will guess a character and it will show you step by step status of your progress.
+As you all know that hangman is very famous game.But this time you will learn new from this game about country and regions. When you run this script in your terminal or any python idle it will tell you particular region and length of the country, Now you will guess a character one by one and it will show you step by step status of your progress.
 
 This game is written in python3 by using basic syntax.
 
